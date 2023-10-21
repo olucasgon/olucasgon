@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="[https://github.com/olucasgon/private/blob/48d55beb6875e4944c4a57600ef3123375265d5c/lucas.png](https://github.com/olucasgon/private/blob/main/readmeLucas.png)" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/olucasgon/private/blob/main/readmeLucas.png" />
 &nbsp;&nbsp;&nbsp;
 
 
