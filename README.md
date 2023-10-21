@@ -11,10 +11,7 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olucasgon&bg_color=000000&color=ffffff&line=020070&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
-
-<h3>🔗Some contact links</h3>
 <p><a href="https://beacons.ai/olucasgon" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"  /></a> </p>
-<h3>💻Used daily</h3>
 <p><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Whindows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
