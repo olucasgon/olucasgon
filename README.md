@@ -11,8 +11,9 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=olucasgon&show_icons=true&&theme=dark#gh-dark-mode-only&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Lucas github stats" /> 
 </div>
 
-</br>
-<div align="center">  
+
+<div align="center">
+  </br>
 <p><a href="https://beacons.ai/olucasgon" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"  /></a>
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Whindows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
