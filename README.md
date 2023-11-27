@@ -24,7 +24,6 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 <img width="48" height="48" src="https://img.icons8.com/office/16/react.png" alt="react"/>
-<img width="48" height="48" src="https://img.icons8.com/ios-glyphs/30/000000/chatgpt.png" alt="chatgpt"/>
 </p>
 <a href="https://beacons.ai/olucasgon" target="_blank"><img alt="Linktree" width="100" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScu_YpxQnKr_jWeXx53LsBcwVQt_64U8Qtxsnbi0QftA&s"  /></a>
 </div>
