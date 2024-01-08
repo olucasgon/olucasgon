@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/olucasgon/private/blob/main/Capa%20DO%20Linkedin%20(1).png?raw=true" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/olucasgon/olucasgon/blob/main/Capa%20do%20Linkedin.png" />
 &nbsp;&nbsp;&nbsp;
 
 
