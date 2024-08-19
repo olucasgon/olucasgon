@@ -22,6 +22,7 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 </p>
 </div>
